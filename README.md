@@ -14,8 +14,3 @@ Built with plain PHP, this project is ideal for developers looking to integrate 
 
 ---
 
-## 📸 Demo
-
-**Login Button Example**:
-```php
-<a href="wherepanda.xyz">FACEIT Login</a>
